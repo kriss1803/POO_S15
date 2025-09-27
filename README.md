@@ -41,6 +41,13 @@ Desarrollar una aplicación GUI simple para gestionar una lista de tareas, permi
 <img width="625" height="664" alt="image" src="https://github.com/user-attachments/assets/f1bee6fe-dc47-438d-8f4b-4b9e4bcf2f8c" />
 <img width="622" height="659" alt="image" src="https://github.com/user-attachments/assets/f6865357-43ea-4f0f-8833-74cf37ee8703" />
 
+### Mensaje al presionar el botón "Añadir Tarea" y el campo está vacio
+<img width="706" height="674" alt="image" src="https://github.com/user-attachments/assets/d5e5a634-0e45-4ae8-b19d-7c0ececf1c06" />
+
+### Mensaje al presionar los botones "Marcar como Completada" o "Eliminar Entrada" sin seleccionar la tarea
+<img width="665" height="663" alt="image" src="https://github.com/user-attachments/assets/95a0e350-aba2-47af-8733-34694284bc0e" />
+
+
 
 
 
