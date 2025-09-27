@@ -26,7 +26,6 @@ Desarrollar una aplicación GUI simple para gestionar una lista de tareas, permi
 
   ### Añadir Tarea
   <img width="622" height="662" alt="image" src="https://github.com/user-attachments/assets/18656b5f-569f-4c6b-8bc2-72d88187751b" />
-  Click en Añadir Tarea
   <img width="621" height="659" alt="image" src="https://github.com/user-attachments/assets/bb19f83a-a91d-4b03-bbd3-aa55736bf955" />
 
   ### Marcar Tarea como hecha
